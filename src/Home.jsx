@@ -12,7 +12,7 @@ function Home() {
                 <img src={LogoGO} alt="LogoGotinha" className="logo" />
                 <nav className="nav">
                     <ul>
-                        <li><a href="/" className="nav-button">Home</a></li>
+                        <li><a href="/pagina-mds" className="nav-button">Home</a></li>
                         <li><a href="/Pesquisa" className="nav-button">Pesquisa</a></li>
                         <li><a href="/Sobre" className="nav-button">Sobre</a></li>
                     </ul>
