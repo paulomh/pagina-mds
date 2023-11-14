@@ -3,6 +3,7 @@ import './Pesquisa.css';
 import LogoGO from './assets/goImg.png';
 import LogoGit from './assets/gitImg.png';
 import LogoUNB from './assets/unbImg.png';
+import { Link } from 'react-router-dom';
 
 function Pesquisa() {
 
@@ -16,9 +17,9 @@ function Pesquisa() {
                 <img src={LogoGO} alt="LogoGotinha" className="logo" />
                 <nav className="nav">
                     <ul>
-                        <li><a href="/" className="nav-button">Home</a></li>
-                        <li><a href="/Pesquisa" className="nav-button">Pesquisa</a></li>
-                        <li><a href="/Sobre" className="nav-button">Sobre</a></li>
+                        <li><Link to="/pagina-mds" className="nav-button">Home</Link></li>
+                        <li><Link to="/pagina-mds/Pesquisa" className="nav-button">Pesquisa</Link></li>
+                        <li><Link to="/pagina-mds/Sobre" className="nav-button">Sobre</Link></li>
                     </ul>
                 </nav>
             </div>
