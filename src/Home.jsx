@@ -13,7 +13,7 @@ function Home() {
                 <nav className="nav">
                     <ul>
                         <li><Link to="/pagina-mds" className="nav-button">Home</Link></li>
-                        <li><Link to="/Pesquisa" className="nav-button">Pesquisa</Link></li>
+                        <li><Link to="/https://github.com/paulomh/pagina-mds/blob/main/src/Pesquisa.jsx" className="nav-button">Pesquisa</Link></li>
                         <li><Link to="/Sobre" className="nav-button">Sobre</Link></li>
                     </ul>
                 </nav>
