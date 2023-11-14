@@ -13,7 +13,7 @@ function Sobre() {
                 <img src={LogoGO} alt="LogoGotinha" className="logo" />
                 <nav className="nav">
                     <ul>
-                        <li><Link to="/pagina-mds" className="nav-button">Home</Link></li>
+                        <li><Link to="/pagina-mds/" className="nav-button">Home</Link></li>
                         <li><Link to="/pagina-mds/Pesquisa" className="nav-button">Pesquisa</Link></li>
                         <li><Link to="/pagina-mds/Sobre" className="nav-button">Sobre</Link></li>
                     </ul>
