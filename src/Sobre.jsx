@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
+import { Link } from 'react-router-dom';
 import './Sobre.css';
 import LogoGO from './assets/goImg.png';
 import LogoGit from './assets/gitImg.png';
 import LogoUNB from './assets/unbImg.png';
+
 
 function Sobre() {
     return (

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import './Home.css';
 import { Link } from 'react-router-dom';
+import './Home.css';
 import LogoGO from './assets/goImg.png';
 import LogoGit from './assets/gitImg.png';
 import LogoUNB from './assets/unbImg.png';
