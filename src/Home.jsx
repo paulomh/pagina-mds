@@ -12,9 +12,9 @@ function Home() {
                 <img src={LogoGO} alt="LogoGotinha" className="logo" />
                 <nav className="nav">
                     <ul>
-                        <li><a href="/pagina-mds" className="nav-button">Home</a></li>
-                        <li><a href="/Pesquisa" className="nav-button">Pesquisa</a></li>
-                        <li><a href="/Sobre" className="nav-button">Sobre</a></li>
+                        <li><Link href="/pagina-mds" className="nav-button">Home</Link></li>
+                        <li><Link href="/Pesquisa" className="nav-button">Pesquisa</Link></li>
+                        <li><Link href="/Sobre" className="nav-button">Sobre</Link></li>
                     </ul>
                 </nav>
             </div>
