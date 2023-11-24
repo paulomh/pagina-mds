@@ -4,79 +4,79 @@
     "detalhe": {
         "2021": {
             "1": {
-               "valor_investido": 3242.5
+               "valor_investido": 1
             },
             "2": {
-                "valor_investido": 123.5
+                "valor_investido": 2
             },
             "3": {
-                "valor_investido": 12324
+                "valor_investido": 3
             },
             "4": {
-                "valor_investido": 51
+                "valor_investido": 4
             },
             "5": {
-                "valor_investido": 10000
+                "valor_investido": 5
             },
             "6": {
-                "valor_investido": 245
+                "valor_investido": 6
             },
             "7": {
-                "valor_investido": 334
+                "valor_investido": 7
             },
             "8": {
-                "valor_investido": 11
+                "valor_investido": 8
             },
             "9": {
-                "valor_investido": 545
+                "valor_investido": 9
             },
             "10": {
-                "valor_investido": 66
+                "valor_investido": 10
             },
             "11": {
-                "valor_investido": 67
+                "valor_investido": 11
             },
             "12": {
-                "valor_investido": 0
+                "valor_investido": 12
             }
         },
 
         "2022" : {
             "1": {
-                "valor_investido": 3242.5
+                "valor_investido": 13
              },
              "2": {
-                 "valor_investido": 123.5
+                 "valor_investido": 14
              },
              "3": {
-                 "valor_investido": 12324
+                 "valor_investido": 15
              },
              "4": {
-                 "valor_investido": 51
+                 "valor_investido": 16
              },
              "5": {
-                 "valor_investido": 10000
+                 "valor_investido": 17
              },
              "6": {
-                 "valor_investido": 245
+                 "valor_investido": 18
              },
              "7": {
-                 "valor_investido": 334
+                 "valor_investido": 19
              },
              "8": {
-                 "valor_investido": 11
+                 "valor_investido": 20
              },
              "9": {
-                 "valor_investido": 545
+                 "valor_investido": 21
              },
              "10": {
-                 "valor_investido": 66
+                 "valor_investido": 22
              },
              "11": {
-                 "valor_investido": 67
+                 "valor_investido": 23
              },
              "12": {
-                 "valor_investido": 0
+                 "valor_investido": 24
              }
         }
     }
